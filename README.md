@@ -7,4 +7,4 @@ It's usefull to me as test and productivity in initial codes principily in C whe
 It's written in Python 3 and for now it supports binaries and .py files.
 
 # How to use:
-`python3 procstalker.py -f file`
+`nohup python3 procstalker.py -f file &`
